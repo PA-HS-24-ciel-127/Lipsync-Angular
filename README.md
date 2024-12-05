@@ -1,6 +1,6 @@
 # Talky Walky Lipsync Project for Angular
 
-This project is based on the ngt-lipsync template for Angular by Chau N Tran. 
+This project is based on the ngt-lipsync template for Angular by [Chau N Tran](https://www.linkedin.com/in/chauntran/). 
 The original template can be found under this link: https://github.com/nartc/ngt-lipsync
 
 # Description
@@ -9,7 +9,7 @@ By clicking the Play button, the avatar reads a predefined text and moves their 
 
 # Run the project
 
-Take this steps to run the webapplication:
+Take these steps to run the web application:
 - Clone the repository
 - Run  `npm install` in order to install the dependencies
 - Run `npm start` to start the development server
