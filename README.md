@@ -22,6 +22,5 @@ Once the development server is running, you will see the 3D-Robot in your browse
 
 - Angular 18
 - Angular Three v2
-- `.glsl` loader setup
 - Tailwind CSS
 - Prettier
