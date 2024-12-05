@@ -1,6 +1,6 @@
 # Talky Walky Lipsync Project for Angular
 
-This project is based on the ngt-lipsync template for Angular by Chau N Tran. 
+This project is based on the ngt-lipsync template for Angular by [Chau N Tran](https://www.linkedin.com/in/chauntran/). 
 The original template can be found under this link: https://github.com/nartc/ngt-lipsync
 
 # Description
