@@ -9,7 +9,7 @@ By clicking the Play button, the avatar reads a predefined text and moves their 
 
 # Run the project
 
-Take this steps to run the webapplication:
+Take these steps to run the web application:
 - Clone the repository
 - Run  `npm install` in order to install the dependencies
 - Run `npm start` to start the development server
