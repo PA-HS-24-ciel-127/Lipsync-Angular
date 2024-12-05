@@ -1,13 +1,24 @@
-# Template for Angular Three projects
+# Talky Walky Lipsync Project for Angular
 
-This is a template to get started with Angular Three.
+This project is based on the ngt-lipsync template for Angular by Chau N Tran. 
+The original template can be found under this link: https://github.com/nartc/ngt-lipsync
 
-## Getting Started
+# Description
+This project uses Three.js in combination with Angular to render the 3D-Model of the Talky Walky Avatar. 
+By clicking the Play button, the avatar reads a predefined text and moves their mouth accordingly. 
 
-- Clone this repository and run `npm install` to install the dependencies.
-- Run `npm start` to start the development server.
+# Run the project
 
-## Features
+Take this steps to run the webapplication:
+- Clone the repository
+- Run  `npm install` in order to install the dependencies
+- Run `npm start` to start the development server
+
+Once the development server is running, you will see the 3D-Robot in your browser as follows:
+
+![lipsync angular user interface](/public/lipsync_angular.png)
+
+# Features
 
 - Angular 18
 - Angular Three v2
